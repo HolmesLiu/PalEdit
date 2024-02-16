@@ -2,7 +2,7 @@
     "values": [
         {
             "CodeName": "Alpaca",
-            "Name": "Melpaca",
+            "Name": "美露帕",
             "Type": [
                 "Neutral"
             ],
@@ -23,7 +23,7 @@
         },
         {
             "CodeName": "AmaterasuWolf",
-            "Name": "Kitsun",
+            "Name": "火绒狐",
             "Type": [
                 "Fire"
             ],
@@ -44,7 +44,7 @@
         },
         {
             "CodeName": "Anubis",
-            "Name": "Anubis",
+            "Name": "阿努比斯",
             "Type": [
                 "Ground"
             ],
@@ -65,7 +65,7 @@
         },
         {
             "CodeName": "Baphomet",
-            "Name": "Incineram",
+            "Name": "炎魔羊",
             "Type": [
                 "Fire",
                 "Dark"
@@ -87,7 +87,7 @@
         },
         {
             "CodeName": "Baphomet_Dark",
-            "Name": "Incineram Noct",
+            "Name": "暗魔羊",
             "Type": [
                 "Dark"
             ],
@@ -108,7 +108,7 @@
         },
         {
             "CodeName": "Bastet",
-            "Name": "Mau",
+            "Name": "喵丝特",
             "Type": [
                 "Dark"
             ],
@@ -129,7 +129,7 @@
         },
         {
             "CodeName": "Bastet_Ice",
-            "Name": "Mau Cryst",
+            "Name": "冰丝特",
             "Type": [
                 "Ice"
             ],
@@ -150,7 +150,7 @@
         },
         {
             "CodeName": "BerryGoat",
-            "Name": "Caprity",
+            "Name": "灌木羊",
             "Type": [
                 "Grass"
             ],
@@ -171,7 +171,7 @@
         },
         {
             "CodeName": "BirdDragon",
-            "Name": "Vanwyrm",
+            "Name": "烽歌龙",
             "Type": [
                 "Fire",
                 "Dark"
@@ -193,7 +193,7 @@
         },
         {
             "CodeName": "BirdDragon_Ice",
-            "Name": "Vanwyrm Cryst",
+            "Name": "霜歌龙",
             "Type": [
                 "Ice",
                 "Dark"
@@ -215,7 +215,7 @@
         },
         {
             "CodeName": "BlackCentaur",
-            "Name": "Necromus",
+            "Name": "混沌骑士",
             "Type": [
                 "Dark"
             ],
@@ -237,7 +237,7 @@
         },
         {
             "CodeName": "BlackGriffon",
-            "Name": "Shadowbeak",
+            "Name": "异构格里芬",
             "Type": [
                 "Dark"
             ],
@@ -258,7 +258,7 @@
         },
         {
             "CodeName": "BlackMetalDragon",
-            "Name": "Astegon",
+            "Name": "魔渊龙",
             "Type": [
                 "Dragon",
                 "Dark"
@@ -280,7 +280,7 @@
         },
         {
             "CodeName": "BlueDragon",
-            "Name": "Azurobe",
+            "Name": "碧海龙",
             "Type": [
                 "Water",
                 "Dragon"
@@ -302,7 +302,7 @@
         },
         {
             "CodeName": "BluePlatypus",
-            "Name": "Fuack",
+            "Name": "冲浪鸭",
             "Type": [
                 "Water"
             ],
@@ -323,7 +323,7 @@
         },
         {
             "CodeName": "Boar",
-            "Name": "Rushoar",
+            "Name": "草莽猪",
             "Type": [
                 "Ground"
             ],
@@ -344,7 +344,7 @@
         },
         {
             "CodeName": "CaptainPenguin",
-            "Name": "Penking",
+            "Name": "企丸王",
             "Type": [
                 "Water",
                 "Ice"
@@ -366,7 +366,7 @@
         },
         {
             "CodeName": "Carbunclo",
-            "Name": "Lifmunk",
+            "Name": "翠叶鼠",
             "Type": [
                 "Grass"
             ],
@@ -387,7 +387,7 @@
         },
         {
             "CodeName": "CatBat",
-            "Name": "Tombat",
+            "Name": "猫蝠怪",
             "Type": [
                 "Dark"
             ],
@@ -408,7 +408,7 @@
         },
         {
             "CodeName": "CatMage",
-            "Name": "Katress",
+            "Name": "暗巫猫",
             "Type": [
                 "Dark"
             ],
@@ -429,7 +429,7 @@
         },
         {
             "CodeName": "CatVampire",
-            "Name": "Felbat",
+            "Name": "夜幕魔蝠",
             "Type": [
                 "Dark"
             ],
@@ -450,7 +450,7 @@
         },
         {
             "CodeName": "ChickenPal",
-            "Name": "Chikipi",
+            "Name": "皮皮鸡",
             "Type": [
                 "Neutral"
             ],
@@ -471,7 +471,7 @@
         },
         {
             "CodeName": "ColorfulBird",
-            "Name": "Tocotoco",
+            "Name": "炸蛋鸟",
             "Type": [
                 "Neutral"
             ],
@@ -492,7 +492,7 @@
         },
         {
             "CodeName": "CowPal",
-            "Name": "Mozzarina",
+            "Name": "波霸牛",
             "Type": [
                 "Neutral"
             ],
@@ -513,7 +513,7 @@
         },
         {
             "CodeName": "CuteButterfly",
-            "Name": "Cinnamoth",
+            "Name": "幻悦蝶",
             "Type": [
                 "Grass"
             ],
@@ -534,7 +534,7 @@
         },
         {
             "CodeName": "CuteFox",
-            "Name": "Vixy",
+            "Name": "玉藻狐",
             "Type": [
                 "Neutral"
             ],
@@ -555,7 +555,7 @@
         },
         {
             "CodeName": "CuteMole",
-            "Name": "Fuddler",
+            "Name": "遁地鼠",
             "Type": [
                 "Ground"
             ],
@@ -576,7 +576,7 @@
         },
         {
             "CodeName": "DarkCrow",
-            "Name": "Cawgnito",
+            "Name": "黑鸦隐士",
             "Type": [
                 "Dark"
             ],
@@ -597,7 +597,7 @@
         },
         {
             "CodeName": "DarkScorpion",
-            "Name": "Menasting",
+            "Name": "冥铠蝎",
             "Type": [
                 "Dark",
                 "Ground"
@@ -619,7 +619,7 @@
         },
         {
             "CodeName": "Deer",
-            "Name": "Eikthyrdeer",
+            "Name": "紫霞鹿",
             "Type": [
                 "Neutral"
             ],
@@ -640,7 +640,7 @@
         },
         {
             "CodeName": "Deer_Ground",
-            "Name": "Eikthyrdeer Terra",
+            "Name": "祇岳鹿",
             "Type": [
                 "Ground"
             ],
@@ -661,7 +661,7 @@
         },
         {
             "CodeName": "DreamDemon",
-            "Name": "Daedream",
+            "Name": "寐魔",
             "Type": [
                 "Dark"
             ],
@@ -682,7 +682,7 @@
         },
         {
             "CodeName": "DrillGame",
-            "Name": "Digtoise",
+            "Name": "碎岩龟",
             "Type": [
                 "Ground"
             ],
@@ -703,7 +703,7 @@
         },
         {
             "CodeName": "Eagle",
-            "Name": "Galeclaw",
+            "Name": "天擒鸟",
             "Type": [
                 "Neutral"
             ],
@@ -724,7 +724,7 @@
         },
         {
             "CodeName": "ElecCat",
-            "Name": "Sparkit",
+            "Name": "伏特喵",
             "Type": [
                 "Electric"
             ],
@@ -745,7 +745,7 @@
         },
         {
             "CodeName": "ElecPanda",
-            "Name": "Grizzbolt",
+            "Name": "暴电熊",
             "Type": [
                 "Electric"
             ],
@@ -766,7 +766,7 @@
         },
         {
             "CodeName": "FairyDragon",
-            "Name": "Elphidran",
+            "Name": "精灵龙",
             "Type": [
                 "Dragon"
             ],
@@ -787,7 +787,7 @@
         },
         {
             "CodeName": "FairyDragon_Water",
-            "Name": "Elphidran Aqua",
+            "Name": "水灵龙",
             "Type": [
                 "Dragon",
                 "Water"
@@ -809,7 +809,7 @@
         },
         {
             "CodeName": "FengyunDeeper",
-            "Name": "Fenglope",
+            "Name": "云海鹿",
             "Type": [
                 "Neutral"
             ],
@@ -830,7 +830,7 @@
         },
         {
             "CodeName": "FireKirin",
-            "Name": "Pyrin",
+            "Name": "火麒麟",
             "Type": [
                 "Fire"
             ],
@@ -851,7 +851,7 @@
         },
         {
             "CodeName": "FireKirin_Dark",
-            "Name": "Pyrin Noct",
+            "Name": "邪麒麟",
             "Type": [
                 "Fire",
                 "Dark"
@@ -873,7 +873,7 @@
         },
         {
             "CodeName": "FlameBambi",
-            "Name": "Rooby",
+            "Name": "燎火鹿",
             "Type": [
                 "Fire"
             ],
@@ -894,7 +894,7 @@
         },
         {
             "CodeName": "FlameBuffalo",
-            "Name": "Arsox",
+            "Name": "炽焰牛",
             "Type": [
                 "Fire"
             ],
@@ -915,7 +915,7 @@
         },
         {
             "CodeName": "FlowerDinosaur",
-            "Name": "Dinossom",
+            "Name": "花冠龙",
             "Type": [
                 "Grass",
                 "Dragon"
@@ -937,7 +937,7 @@
         },
         {
             "CodeName": "FlowerDinosaur_Electric",
-            "Name": "Dinossom Lux",
+            "Name": "雷冠龙",
             "Type": [
                 "Electric",
                 "Dragon"
@@ -959,7 +959,7 @@
         },
         {
             "CodeName": "FlowerDoll",
-            "Name": "Petallia",
+            "Name": "花丽娜",
             "Type": [
                 "Grass"
             ],
@@ -980,7 +980,7 @@
         },
         {
             "CodeName": "FlowerRabbit",
-            "Name": "Flopie",
+            "Name": "波娜兔",
             "Type": [
                 "Grass"
             ],
@@ -1001,7 +1001,7 @@
         },
         {
             "CodeName": "FlyingManta",
-            "Name": "Celaray",
+            "Name": "鲁米儿",
             "Type": [
                 "Water"
             ],
@@ -1022,7 +1022,7 @@
         },
         {
             "CodeName": "FoxMage",
-            "Name": "Wixen",
+            "Name": "焰巫狐",
             "Type": [
                 "Fire"
             ],
@@ -1043,7 +1043,7 @@
         },
         {
             "CodeName": "Ganesha",
-            "Name": "Teafant",
+            "Name": "壶小象",
             "Type": [
                 "Water"
             ],
@@ -1064,7 +1064,7 @@
         },
         {
             "CodeName": "Garm",
-            "Name": "Direhowl",
+            "Name": "猎狼",
             "Type": [
                 "Neutral"
             ],
@@ -1085,7 +1085,7 @@
         },
         {
             "CodeName": "GhostBeast",
-            "Name": "Maraith",
+            "Name": "噬魂兽",
             "Type": [
                 "Dark"
             ],
@@ -1106,7 +1106,7 @@
         },
         {
             "CodeName": "Gorilla",
-            "Name": "Gorirat",
+            "Name": "铁拳猿",
             "Type": [
                 "Neutral"
             ],
@@ -1127,7 +1127,7 @@
         },
         {
             "CodeName": "GrassMammoth",
-            "Name": "Mammorest",
+            "Name": "森猛犸",
             "Type": [
                 "Grass"
             ],
@@ -1148,7 +1148,7 @@
         },
         {
             "CodeName": "GrassMammoth_Ice",
-            "Name": "Mammorest Cryst",
+            "Name": "雪猛犸",
             "Type": [
                 "Ice"
             ],
@@ -1169,7 +1169,7 @@
         },
         {
             "CodeName": "GrassPanda",
-            "Name": "Mossanda",
+            "Name": "叶胖达",
             "Type": [
                 "Grass"
             ],
@@ -1190,7 +1190,7 @@
         },
         {
             "CodeName": "GrassPanda_Electric",
-            "Name": "Mossanda Lux",
+            "Name": "雷胖达",
             "Type": [
                 "Electric"
             ],
@@ -1211,7 +1211,7 @@
         },
         {
             "CodeName": "GrassRabbitMan",
-            "Name": "Verdash",
+            "Name": "踏春兔",
             "Type": [
                 "Grass"
             ],
@@ -1232,7 +1232,7 @@
         },
         {
             "CodeName": "HadesBird",
-            "Name": "Helzephyr",
+            "Name": "雷冥鸟",
             "Type": [
                 "Dark"
             ],
@@ -1253,7 +1253,7 @@
         },
         {
             "CodeName": "HawkBird",
-            "Name": "Nitewing",
+            "Name": "疾风隼",
             "Type": [
                 "Neutral"
             ],
@@ -1274,7 +1274,7 @@
         },
         {
             "CodeName": "Hedgehog",
-            "Name": "Jolthog",
+            "Name": "电棘鼠",
             "Type": [
                 "Electric"
             ],
@@ -1295,7 +1295,7 @@
         },
         {
             "CodeName": "Hedgehog_Ice",
-            "Name": "Jolthog Cryst",
+            "Name": "冰刺鼠",
             "Type": [
                 "Ice"
             ],
@@ -1316,7 +1316,7 @@
         },
         {
             "CodeName": "HerculesBeetle",
-            "Name": "Warsect",
+            "Name": "凯格力斯",
             "Type": [
                 "Ground",
                 "Grass"
@@ -1338,7 +1338,7 @@
         },
         {
             "CodeName": "Horus",
-            "Name": "Faleris",
+            "Name": "荷鲁斯",
             "Type": [
                 "Fire"
             ],
@@ -1359,7 +1359,7 @@
         },
         {
             "CodeName": "IceDeer",
-            "Name": "Reindrix",
+            "Name": "严冬鹿",
             "Type": [
                 "Ice"
             ],
@@ -1380,7 +1380,7 @@
         },
         {
             "CodeName": "IceFox",
-            "Name": "Foxcicle",
+            "Name": "吹雪狐",
             "Type": [
                 "Ice"
             ],
@@ -1401,7 +1401,7 @@
         },
         {
             "CodeName": "IceHorse",
-            "Name": "Frostallion",
+            "Name": "唤冬兽",
             "Type": [
                 "Ice"
             ],
@@ -1422,7 +1422,7 @@
         },
         {
             "CodeName": "IceHorse_Dark",
-            "Name": "Frostallion Noct",
+            "Name": "唤夜兽",
             "Type": [
                 "Dark"
             ],
@@ -1443,7 +1443,7 @@
         },
         {
             "CodeName": "JetDragon",
-            "Name": "Jetragon",
+            "Name": "空涡龙",
             "Type": [
                 "Dragon"
             ],
@@ -1465,7 +1465,7 @@
         },
         {
             "CodeName": "Kelpie",
-            "Name": "Kelpsea",
+            "Name": "水灵儿",
             "Type": [
                 "Water"
             ],
@@ -1486,7 +1486,7 @@
         },
         {
             "CodeName": "Kelpie_Fire",
-            "Name": "Kelpsea Ignis",
+            "Name": "火灵儿",
             "Type": [
                 "Fire"
             ],
@@ -1507,7 +1507,7 @@
         },
         {
             "CodeName": "KingAlpaca",
-            "Name": "Kingpaca",
+            "Name": "君王美露帕",
             "Type": [
                 "Neutral"
             ],
@@ -1528,7 +1528,7 @@
         },
         {
             "CodeName": "KingAlpaca_Ice",
-            "Name": "Ice Kingpaca",
+            "Name": "冰帝美露帕",
             "Type": [
                 "Ice"
             ],
@@ -1549,7 +1549,7 @@
         },
         {
             "CodeName": "KingBahamut",
-            "Name": "Blazamut",
+            "Name": "焰煌",
             "Type": [
                 "Fire"
             ],
@@ -1570,7 +1570,7 @@
         },
         {
             "CodeName": "Kirin",
-            "Name": "Univolt",
+            "Name": "雷角马",
             "Type": [
                 "Electric"
             ],
@@ -1591,7 +1591,7 @@
         },
         {
             "CodeName": "Kitsunebi",
-            "Name": "Foxparks",
+            "Name": "火绒狐",
             "Type": [
                 "Fire"
             ],
@@ -1612,7 +1612,7 @@
         },
         {
             "CodeName": "LavaGirl",
-            "Name": "Flambelle",
+            "Name": "融焰娘",
             "Type": [
                 "Fire"
             ],
@@ -1633,7 +1633,7 @@
         },
         {
             "CodeName": "LazyCatfish",
-            "Name": "Dumud",
+            "Name": "趴趴鲶",
             "Type": [
                 "Ground"
             ],
@@ -1646,7 +1646,7 @@
         },
         {
             "CodeName": "LazyDragon",
-            "Name": "Relaxaurus",
+            "Name": "佩克龙",
             "Type": [
                 "Dragon",
                 "Water"
@@ -1668,7 +1668,7 @@
         },
         {
             "CodeName": "LazyDragon_Electric",
-            "Name": "Relaxaurus Lux",
+            "Name": "派克龙",
             "Type": [
                 "Dragon",
                 "Electric"
@@ -1690,7 +1690,7 @@
         },
         {
             "CodeName": "LilyQueen",
-            "Name": "Lyleen",
+            "Name": "百合女王",
             "Type": [
                 "Grass"
             ],
@@ -1711,7 +1711,7 @@
         },
         {
             "CodeName": "LilyQueen_Dark",
-            "Name": "Lyleen Noct",
+            "Name": "黑月女王",
             "Type": [
                 "Dark"
             ],
@@ -1732,7 +1732,7 @@
         },
         {
             "CodeName": "LittleBriarRose",
-            "Name": "Bristla",
+            "Name": "荆棘魔仙",
             "Type": [
                 "Grass"
             ],
@@ -1753,7 +1753,7 @@
         },
         {
             "CodeName": "LizardMan",
-            "Name": "Leezpunk",
+            "Name": "朋克蜥",
             "Type": [
                 "Dark"
             ],
@@ -1774,7 +1774,7 @@
         },
         {
             "CodeName": "LizardMan_Fire",
-            "Name": "Leezpunk Ignis",
+            "Name": "热血蜥",
             "Type": [
                 "Fire"
             ],
@@ -1795,7 +1795,7 @@
         },
         {
             "CodeName": "Manticore",
-            "Name": "Blazehowl",
+            "Name": "狱焰王",
             "Type": [
                 "Fire"
             ],
@@ -1816,7 +1816,7 @@
         },
         {
             "CodeName": "Manticore_Dark",
-            "Name": "Blazehowl Noct",
+            "Name": "狱阎王(暗黑)",
             "Type": [
                 "Fire",
                 "Dark"
@@ -1838,7 +1838,7 @@
         },
         {
             "CodeName": "Monkey",
-            "Name": "Tanzee",
+            "Name": "新叶猿",
             "Type": [
                 "Grass"
             ],
@@ -1859,7 +1859,7 @@
         },
         {
             "CodeName": "MopBaby",
-            "Name": "Swee",
+            "Name": "毛掸儿",
             "Type": [
                 "Ice"
             ],
@@ -1880,7 +1880,7 @@
         },
         {
             "CodeName": "MopKing",
-            "Name": "Sweepa",
+            "Name": "毛老爹",
             "Type": [
                 "Ice"
             ],
@@ -1901,7 +1901,7 @@
         },
         {
             "CodeName": "Mutant",
-            "Name": "Lunaris",
+            "Name": "秘斯媞雅",
             "Type": [
                 "Neutral"
             ],
@@ -1922,7 +1922,7 @@
         },
         {
             "CodeName": "NaughtyCat",
-            "Name": "Grintale",
+            "Name": "笑魇猫",
             "Type": [
                 "Neutral"
             ],
@@ -1943,7 +1943,7 @@
         },
         {
             "CodeName": "NegativeKoala",
-            "Name": "Depresso",
+            "Name": "瞅什魔",
             "Type": [
                 "Dark"
             ],
@@ -1964,7 +1964,7 @@
         },
         {
             "CodeName": "NegativeOctopus",
-            "Name": "Killamari",
+            "Name": "勾魂鱿",
             "Type": [
                 "Dark"
             ],
@@ -1985,7 +1985,7 @@
         },
         {
             "CodeName": "NightFox",
-            "Name": "Nox",
+            "Name": "露娜蒂",
             "Type": [
                 "Dark"
             ],
@@ -2006,7 +2006,7 @@
         },
         {
             "CodeName": "Penguin",
-            "Name": "Pengullet",
+            "Name": "企丸丸",
             "Type": [
                 "Water",
                 "Ice"
@@ -2028,7 +2028,7 @@
         },
         {
             "CodeName": "PinkCat",
-            "Name": "Cattiva",
+            "Name": "捣蛋猫",
             "Type": [
                 "Neutral"
             ],
@@ -2049,7 +2049,7 @@
         },
         {
             "CodeName": "PinkLizard",
-            "Name": "Lovander",
+            "Name": "博爱蜥",
             "Type": [
                 "Neutral"
             ],
@@ -2070,7 +2070,7 @@
         },
         {
             "CodeName": "PinkRabbit",
-            "Name": "Ribbuny",
+            "Name": "姬小兔",
             "Type": [
                 "Neutral"
             ],
@@ -2086,7 +2086,7 @@
         },
         {
             "CodeName": "PlantSlime",
-            "Name": "Gumoss",
+            "Name": "叶泥泥",
             "Type": [
                 "Grass",
                 "Ground"
@@ -2108,7 +2108,7 @@
         },
         {
             "CodeName": "PlantSlime_Flower",
-            "Name": "Gumoss (Special)",
+            "Name": "叶泥泥(特殊)",
             "Type": [
                 "Grass",
                 "Ground"
@@ -2130,7 +2130,7 @@
         },
         {
             "CodeName": "QueenBee",
-            "Name": "Elizabee",
+            "Name": "女皇蜂",
             "Type": [
                 "Grass"
             ],
@@ -2151,7 +2151,7 @@
         },
         {
             "CodeName": "RaijinDaughter",
-            "Name": "Dazzi",
+            "Name": "雷鸣童子",
             "Type": [
                 "Electric"
             ],
@@ -2172,7 +2172,7 @@
         },
         {
             "CodeName": "RedArmorBird",
-            "Name": "Ragnahawk",
+            "Name": "燧火鸟",
             "Type": [
                 "Fire"
             ],
@@ -2193,7 +2193,7 @@
         },
         {
             "CodeName": "RobinHood",
-            "Name": "Robinquill",
+            "Name": "羽箭射手",
             "Type": [
                 "Grass"
             ],
@@ -2214,7 +2214,7 @@
         },
         {
             "CodeName": "RobinHood_Ground",
-            "Name": "Robinquill Terra",
+            "Name": "山岳射手",
             "Type": [
                 "Grass",
                 "Ground"
@@ -2236,7 +2236,7 @@
         },
         {
             "CodeName": "Ronin",
-            "Name": "Bushi",
+            "Name": "浪刃武士",
             "Type": [
                 "Fire"
             ],
@@ -2257,7 +2257,7 @@
         },
         {
             "CodeName": "SaintCentaur",
-            "Name": "Paladius",
+            "Name": "圣光骑士",
             "Type": [
                 "Neutral"
             ],
@@ -2279,7 +2279,7 @@
         },
         {
             "CodeName": "SakuraSaurus",
-            "Name": "Broncherry",
+            "Name": "连理龙",
             "Type": [
                 "Grass"
             ],
@@ -2300,7 +2300,7 @@
         },
         {
             "CodeName": "SakuraSaurus_Water",
-            "Name": "Broncherry Aqua",
+            "Name": "海誓龙",
             "Type": [
                 "Grass",
                 "Water"
@@ -2322,7 +2322,7 @@
         },
         {
             "CodeName": "Serpent",
-            "Name": "Surfent",
+            "Name": "滑水蛇",
             "Type": [
                 "Water"
             ],
@@ -2343,7 +2343,7 @@
         },
         {
             "CodeName": "Serpent_Ground",
-            "Name": "Surfent Terra",
+            "Name": "流沙蛇",
             "Type": [
                 "Ground"
             ],
@@ -2364,7 +2364,7 @@
         },
         {
             "CodeName": "SharkKid",
-            "Name": "Gobfin",
+            "Name": "鲨小子",
             "Type": [
                 "Water"
             ],
@@ -2385,7 +2385,7 @@
         },
         {
             "CodeName": "SharkKid_Fire",
-            "Name": "Gobfin Ignis",
+            "Name": "红小鲨",
             "Type": [
                 "Fire"
             ],
@@ -2406,7 +2406,7 @@
         },
         {
             "CodeName": "Sheepball",
-            "Name": "Lamball",
+            "Name": "棉悠悠",
             "Type": [
                 "Neutral"
             ],
@@ -2427,7 +2427,7 @@
         },
         {
             "CodeName": "SkyDragon",
-            "Name": "Quivern",
+            "Name": "天羽龙",
             "Type": [
                 "Dragon"
             ],
@@ -2448,7 +2448,7 @@
         },
         {
             "CodeName": "SoldierBee",
-            "Name": "Beegarde",
+            "Name": "骑士蜂",
             "Type": [
                 "Grass"
             ],
@@ -2469,7 +2469,7 @@
         },
         {
             "CodeName": "Suzaku",
-            "Name": "Suzaku",
+            "Name": "朱雀",
             "Type": [
                 "Fire"
             ],
@@ -2490,7 +2490,7 @@
         },
         {
             "CodeName": "Suzaku_Water",
-            "Name": "Suzaku Aqua",
+            "Name": "清雀",
             "Type": [
                 "Water"
             ],
@@ -2511,7 +2511,7 @@
         },
         {
             "CodeName": "SweetsSheep",
-            "Name": "Woolipop",
+            "Name": "棉花糖",
             "Type": [
                 "Neutral"
             ],
@@ -2532,7 +2532,7 @@
         },
         {
             "CodeName": "ThunderBird",
-            "Name": "Beakon",
+            "Name": "迅雷鸟",
             "Type": [
                 "Electric"
             ],
@@ -2553,7 +2553,7 @@
         },
         {
             "CodeName": "ThunderDog",
-            "Name": "Rayhound",
+            "Name": "霹雳犬",
             "Type": [
                 "Electric"
             ],
@@ -2574,7 +2574,7 @@
         },
         {
             "CodeName": "ThunderDragonMan",
-            "Name": "Orserk",
+            "Name": "波鲁杰克斯",
             "Type": [
                 "Dragon",
                 "Electric"
@@ -2596,7 +2596,7 @@
         },
         {
             "CodeName": "Umihebi",
-            "Name": "Jormuntide",
+            "Name": "覆海龙",
             "Type": [
                 "Dragon",
                 "Water"
@@ -2618,7 +2618,7 @@
         },
         {
             "CodeName": "Umihebi_Fire",
-            "Name": "Jormuntide Ignis",
+            "Name": "腾炎龙",
             "Type": [
                 "Dragon",
                 "Fire"
@@ -2640,7 +2640,7 @@
         },
         {
             "CodeName": "VioletFairy",
-            "Name": "Vaelet",
+            "Name": "薇莉塔",
             "Type": [
                 "Grass"
             ],
@@ -2661,7 +2661,7 @@
         },
         {
             "CodeName": "VolcanicMonster",
-            "Name": "Reptyro",
+            "Name": "熔岩兽",
             "Type": [
                 "Fire",
                 "Ground"
@@ -2683,7 +2683,7 @@
         },
         {
             "CodeName": "VolcanicMonster_Ice",
-            "Name": "Ice Reptyro",
+            "Name": "寒霜兽",
             "Type": [
                 "Ice",
                 "Ground"
@@ -2705,7 +2705,7 @@
         },
         {
             "CodeName": "WeaselDragon",
-            "Name": "Chillet",
+            "Name": "疾旋鼬",
             "Type": [
                 "Ice",
                 "Dragon"
@@ -2727,7 +2727,7 @@
         },
         {
             "CodeName": "Werewolf",
-            "Name": "Loupmoon",
+            "Name": "月镰魔",
             "Type": [
                 "Dark"
             ],
@@ -2748,7 +2748,7 @@
         },
         {
             "CodeName": "WhiteMoth",
-            "Name": "Sibelyx",
+            "Name": "绸笠蛾",
             "Type": [
                 "Ice"
             ],
@@ -2769,7 +2769,7 @@
         },
         {
             "CodeName": "WhiteTiger",
-            "Name": "Cryolinx",
+            "Name": "冰棘兽",
             "Type": [
                 "Ice"
             ],
@@ -2790,7 +2790,7 @@
         },
         {
             "CodeName": "WindChimes",
-            "Name": "Hangyu",
+            "Name": "吊缚灵",
             "Type": [
                 "Ground"
             ],
@@ -2803,7 +2803,7 @@
         },
         {
             "CodeName": "WindChimes_Ice",
-            "Name": "Hangyu Cryst",
+            "Name": "冰缚灵",
             "Type": [
                 "Ice"
             ],
@@ -2816,7 +2816,7 @@
         },
         {
             "CodeName": "WizardOwl",
-            "Name": "Hoocrates",
+            "Name": "啼卡尔",
             "Type": [
                 "Dark"
             ],
@@ -2837,7 +2837,7 @@
         },
         {
             "CodeName": "WoolFox",
-            "Name": "Cremis",
+            "Name": "米露菲",
             "Type": [
                 "Neutral"
             ],
@@ -2858,7 +2858,7 @@
         },
         {
             "CodeName": "Yeti",
-            "Name": "Wumpo",
+            "Name": "白绒雪怪",
             "Type": [
                 "Ice"
             ],
@@ -2879,7 +2879,7 @@
         },
         {
             "CodeName": "Yeti_Grass",
-            "Name": "Wumpo Botan",
+            "Name": "绿苔绒怪",
             "Type": [
                 "Grass"
             ],
@@ -2900,7 +2900,7 @@
         },
         {
             "CodeName": "BlackFurDragon",
-            "Name": "Dragostrophe",
+            "Name": "灾变龙",
             "Type": [
                 "Dark",
                 "Dragon"
@@ -2990,7 +2990,7 @@
         },
         {
             "CodeName": "Male_DarkTrader01",
-            "Name": "Black Marketeer",
+            "Name": "黑市商人",
             "Type": [
                 "None"
             ],
@@ -3071,7 +3071,7 @@
         },
         {
             "CodeName": "Hunter_FlameThrower",
-            "Name": "Syndicate Cleaner",
+            "Name": "辛迪加清理者",
             "Type": [
                 "None"
             ],
@@ -3080,7 +3080,7 @@
         },
         {
             "CodeName": "Hunter_Fat_GatlingGun",
-            "Name": "Syndicate Crusher",
+            "Name": "辛迪加粉碎者",
             "Type": [
                 "None"
             ],
@@ -3089,7 +3089,7 @@
         },
         {
             "CodeName": "Hunter_RocketLauncher",
-            "Name": "Syndicate Elite",
+            "Name": "辛迪加精英",
             "Type": [
                 "None"
             ],
@@ -3098,7 +3098,7 @@
         },
         {
             "CodeName": "Hunter_Grenade",
-            "Name": "Syndicate Grenadier",
+            "Name": "辛迪加掷弹兵",
             "Type": [
                 "None"
             ],
@@ -3107,7 +3107,7 @@
         },
         {
             "CodeName": "Hunter_Rifle",
-            "Name": "Syndicate Gunner",
+            "Name": "辛迪加枪手",
             "Type": [
                 "None"
             ],
@@ -3116,7 +3116,7 @@
         },
         {
             "CodeName": "Hunter_Shotgun",
-            "Name": "Syndicate Hunter",
+            "Name": "辛迪加暴徒",
             "Type": [
                 "None"
             ],
@@ -3125,7 +3125,7 @@
         },
         {
             "CodeName": "Hunter_Handgun",
-            "Name": "Syndicate Thug (Handgun)",
+            "Name": "辛迪加暴徒（手枪）",
             "Type": [
                 "None"
             ],
@@ -3134,7 +3134,7 @@
         },
         {
             "CodeName": "SalesPerson",
-            "Name": "Wandering Merchant",
+            "Name": "流浪商人",
             "Type": [
                 "None"
             ],
